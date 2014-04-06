@@ -7,4 +7,7 @@ menu.prototype={
   bind:function(){
   
   }
-}
+};
+var myObj = {};
+var myArray = [];
+
